@@ -18,5 +18,3 @@ Prerequisites
 - Hardware:
   - RGB-D camera (e.g., Intel RealSense D435, Kinect) or LiDAR (e.g., Velodyne VLP-16)
   - GPU (recommended for semantic segmentation, e.g., NVIDIA RTX 4080 Super or better)
- 
-  
